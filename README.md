@@ -1,6 +1,6 @@
 # Library-management-system
 
-A web-based library management system built using Django.
+A web-based library management system built using Django. by sakshi
 
 Installation and Setup
 Step 1: Create a Virtual Environment
